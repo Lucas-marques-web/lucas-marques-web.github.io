@@ -24,7 +24,7 @@ Sou formado em Ciência da Computação e busco oportunidades na área de Dados,
 Tenho experiência com PHP (Laravel), Angular, JavaScript, HTML e CSS, e estou em transição para a área de Analytics e Data Science.
 
 ## 📫 Contato
-- LinkedIn: https://linkedin.com/in/seu-linkedin  
+- LinkedIn: [https://linkedin.com/in/seu-linkedin ](https://www.linkedin.com/in/lucas-paiva-marques/) 
 - GitHub: https://github.com/lucas-marques-web  
 
 
@@ -59,6 +59,7 @@ I hold a degree in Computer Science and I am seeking opportunities in Data Analy
 I have experience with PHP (Laravel), Angular, JavaScript, HTML, and CSS, and I am transitioning into the Data field.
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/your-linkedin  
+- LinkedIn: [https://linkedin.com/in/your-linkedin ](https://www.linkedin.com/in/lucas-paiva-marques/) 
 - GitHub: https://github.com/lucas-marques-web  
+
 
