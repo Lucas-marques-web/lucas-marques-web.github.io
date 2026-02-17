@@ -3,7 +3,7 @@
 Este é meu portfólio pessoal, onde apresento projetos de desenvolvimento web e, futuramente, projetos voltados para a área de Dados, Business Intelligence e Analytics.
 
 ## 🌐 Acesse o portfólio
-https://lucas-marques-web.github.io/portfolio
+[https://lucas-marques-web.github.io/portfolio](https://lucas-marques-web.github.io/)
 
 ## 🚀 Tecnologias Utilizadas
 - HTML5  
@@ -38,7 +38,7 @@ Tenho experiência com PHP (Laravel), Angular, JavaScript, HTML e CSS, e estou e
 This is my personal portfolio showcasing my web development projects and future projects in Data Analytics, Business Intelligence, and Data Science.
 
 ## 🌐 Live Portfolio
-https://lucas-marques-web.github.io/portfolio
+[https://lucas-marques-web.github.io/portfolio](https://lucas-marques-web.github.io/)
 
 ## 🚀 Technologies
 - HTML5  
@@ -61,3 +61,4 @@ I have experience with PHP (Laravel), Angular, JavaScript, HTML, and CSS, and I 
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/your-linkedin  
 - GitHub: https://github.com/lucas-marques-web  
+
